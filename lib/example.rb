@@ -1,4 +1,4 @@
-require"../
+require "../greeting.rb"
 
 phrase = "Hello World!"
 puts phrase
