@@ -1,4 +1,4 @@
-require"..\
+require"../
 
 phrase = "Hello World!"
 puts phrase
